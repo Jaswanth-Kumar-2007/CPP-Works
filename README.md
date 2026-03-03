@@ -47,10 +47,21 @@
 ## Exercises
 
 ```bash
+├── ⚡ algorithms.cpp
+├── ⚙️ algorithms.exe
+├── 📝 algorithms.md
+├── ⚡ arrays.cpp
+├── ⚙️ arrays.exe
 ├── ⚡ basic.cpp
 ├── ⚙️ basic.exe
 ├── ⚡ functions.cpp
-└── ⚙️ functions.exe
+├── ⚙️ functions.exe
+├── ⚡ oop.cpp
+├── ⚙️ oop.exe
+├── ⚡ pointers.cpp
+├── ⚙️ pointers.exe
+├── ⚡ stl.cpp
+└── ⚙️ stl.exe
 ```
 
 ---
